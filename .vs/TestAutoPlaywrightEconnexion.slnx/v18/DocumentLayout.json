@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\features\\loginfeatures\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\features\\loginfeatures\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\testautoplaywrighteconnexion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|c:\\users\\abdelmoutalib nioua\\source\\repos\\testautoplaywrighteconnexion\\testautoplaywrighteconnexion\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BFAF2FF-67DB-21F5-E144-6F9794259420}|TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj|solutionrelative:testautoplaywrighteconnexion\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:12:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Support\\Hooks.cs",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\Support\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Support\\Hooks.cs",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\Support\\Hooks.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:01:22.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaywrightDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Drivers\\PlaywrightDriver.cs",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\Drivers\\PlaywrightDriver.cs",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Drivers\\PlaywrightDriver.cs",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\Drivers\\PlaywrightDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:55:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:54:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Features\\LoginFeatures\\Login.feature",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\Features\\LoginFeatures\\Login.feature",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Features\\LoginFeatures\\Login.feature",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\Features\\LoginFeatures\\Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-06-18T08:44:22.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\Features\\Calculator.feature",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\Features\\Calculator.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-06-18T07:50:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestAutoPlaywrightEconnexion.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj",
+              "RelativeDocumentMoniker": "TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj",
+              "ToolTip": "C:\\Users\\Abdelmoutalib NIOUA\\source\\repos\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj",
+              "RelativeToolTip": "TestAutoPlaywrightEconnexion\\TestAutoPlaywrightEconnexion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T07:27:23.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
